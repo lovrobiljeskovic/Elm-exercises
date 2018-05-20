@@ -1,0 +1,17 @@
+Configuring base-unicode-symbols-0.2.2.4...
+Preprocessing library for base-unicode-symbols-0.2.2.4..
+Building library for base-unicode-symbols-0.2.2.4..
+[ 1 of 12] Compiling Control.Applicative.Unicode ( Control/Applicative/Unicode.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Control/Applicative/Unicode.o )
+[ 2 of 12] Compiling Control.Category.Unicode ( Control/Category/Unicode.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Control/Category/Unicode.o )
+[ 3 of 12] Compiling Control.Arrow.Unicode ( Control/Arrow/Unicode.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Control/Arrow/Unicode.o )
+[ 4 of 12] Compiling Control.Monad.Unicode ( Control/Monad/Unicode.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Control/Monad/Unicode.o )
+[ 5 of 12] Compiling Data.Bool.Unicode ( Data/Bool/Unicode.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Data/Bool/Unicode.o )
+[ 6 of 12] Compiling Data.Eq.Unicode  ( Data/Eq/Unicode.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Data/Eq/Unicode.o )
+[ 7 of 12] Compiling Data.Foldable.Unicode ( Data/Foldable/Unicode.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Data/Foldable/Unicode.o )
+[ 8 of 12] Compiling Data.Function.Unicode ( Data/Function/Unicode.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Data/Function/Unicode.o )
+[ 9 of 12] Compiling Data.List.Unicode ( Data/List/Unicode.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Data/List/Unicode.o )
+[10 of 12] Compiling Data.Monoid.Unicode ( Data/Monoid/Unicode.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Data/Monoid/Unicode.o )
+[11 of 12] Compiling Data.Ord.Unicode ( Data/Ord/Unicode.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Data/Ord/Unicode.o )
+[12 of 12] Compiling Prelude.Unicode  ( Prelude/Unicode.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Prelude/Unicode.o )
+Installing library in /home/lovro/.stack/snapshots/x86_64-linux/lts-11.7/8.2.2/lib/x86_64-linux-ghc-8.2.2/base-unicode-symbols-0.2.2.4-5A3VrF6H1LwDBIion1wjg9
+Registering library for base-unicode-symbols-0.2.2.4..

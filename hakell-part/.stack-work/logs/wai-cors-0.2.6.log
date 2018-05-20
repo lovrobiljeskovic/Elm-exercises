@@ -1,0 +1,6 @@
+Configuring wai-cors-0.2.6...
+Preprocessing library for wai-cors-0.2.6..
+Building library for wai-cors-0.2.6..
+[1 of 1] Compiling Network.Wai.Middleware.Cors ( src/Network/Wai/Middleware/Cors.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Network/Wai/Middleware/Cors.o )
+Installing library in /home/lovro/.stack/snapshots/x86_64-linux/lts-11.7/8.2.2/lib/x86_64-linux-ghc-8.2.2/wai-cors-0.2.6-LHphdX25fsM8Je9l62KTmH
+Registering library for wai-cors-0.2.6..
